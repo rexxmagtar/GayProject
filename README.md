@@ -16,5 +16,8 @@
 Чат бот предоставляет информацию о рекомендациях тяг. Далее описание будет дополнено.
 
 ## Contributing: 
-
+Пиван - тим лид. Руководитель проекта
+Максим - senior front end js developer
+Самир - Senior python backend developer
+Хлеб - data scientist. Бизнес аналитик. Founder проекта. И просто хороший человек.
 
